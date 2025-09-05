@@ -1,0 +1,21 @@
+{
+  "files.associations": {
+    "vector": "cpp",
+    "iostream": "cpp",
+    "string": "cpp",
+    "format": "cpp",
+    "unordered_set": "cpp",
+    "deque": "cpp",
+    "list": "cpp",
+    "unordered_map": "cpp",
+    "forward_list": "cpp",
+    "algorithm": "cpp",
+    "bitset": "cpp",
+    "random": "cpp",
+    "sstream": "cpp",
+    "regex": "cpp",
+    "ostream": "cpp",
+    "initializer_list": "cpp",
+    "valarray": "cpp"
+  }
+}
